@@ -2,7 +2,7 @@ const char MAIN_page[] PROGMEM = R"=====(
 <!DOCTYPE html>
 <html>
 <head>
-<title>ESP8266 Servo | Circuits4you.com</title>
+<title>ESP8266 Servo | Ezequiel</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <style>
@@ -48,8 +48,8 @@ const char MAIN_page[] PROGMEM = R"=====(
 <body>
 <div style="width:100%;">
 <div style="width:50%;  margin: 0 auto;">
-  <h3>Circuits4you.com</h3>
-  <h4>ESP8266 Servo Motor Control Demo</h4>
+  <h3>Servo ESP8266 Controller - Web server</h3>
+  <h4>ESP8266 Servo Motor Control</h4>
 </div>
 </div>
  
